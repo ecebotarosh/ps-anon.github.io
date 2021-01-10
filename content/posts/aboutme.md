@@ -18,7 +18,7 @@ Sooooo, my name is Adrian on internet you may know me as  **PS** ;)
 
 ## Jazz addicted  
 
-Although I do not listen to jazz online, it helps me focus
+Although I do not listen to jazz 24/7, it helps me focus
 
 And yeah, I listen to  rap/trap/hip-hop/rock =)) 
 
@@ -32,7 +32,7 @@ In 9th grade i decided that I should try CTF's since I really want that OSCP cer
 ### Skills :
 Bug Bounty :
 very gud on : xss(advanced) , code injection(advanced) , sqli(medium) , RCE/LFI/RFI(medium)  
-not so gud : information exposure , desii nu pare mare lucru , intotdeauna trec peste ea .  
+not so gud : information exposure  .  
 CTF (i am still learning) :   
 good : Memory Forensic(advanced, i love Memory Forensic <3 ) web(ok) , misc(i can improve) , crypto (pfff i can try  **mood** =)) )  
 not so good : pwn (tbh I've tried  =)) )  
@@ -56,7 +56,7 @@ Eye color : blue and brown
 
 Coat : black and white with a black shaped heart on his chest
 
-Help me focus on ctfs  =))))))
+Help's me focus on ctfs  =))))))
 
 ## Memer 
 Yeah do i need to say more here  ?
