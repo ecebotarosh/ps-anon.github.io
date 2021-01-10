@@ -1,0 +1,14 @@
+
+baseURL = "ps-anon.github.io"
+languageCode = "en-us"
+title = "PS-blog"
+theme = "m10c"
+[params]
+	avatar = "avatar.png"
+	author = "PS"
+	
+	description = "A random way of sharing my thoughts"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
