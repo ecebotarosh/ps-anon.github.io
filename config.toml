@@ -6,7 +6,6 @@ theme = "m10c"
 [params]
 	avatar = "avatar.png"
 	author = "PS"
-	
 	description = "A random way of sharing my thoughts"
 [markup]
   [markup.goldmark]
